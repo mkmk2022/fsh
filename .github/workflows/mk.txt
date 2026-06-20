@@ -2,33 +2,101 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
-#profile-web-page-url: https://github.com/barry-far/V2ray-config
-hysteria2://Masir_Sefid@18.157.222.169:443?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#A1
-hysteria2://Masir_Sefid@18.157.222.169:444?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#A2
-hysteria2://Masir_Sefid@18.157.222.169:8880?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#A3
-hysteria2://Masir_Sefid@18.157.222.169:1040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#A4
-hysteria2://Masir_Sefid@18.157.222.169:4040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#A5
-hysteria2://Masir_Sefid@18.157.222.169:54040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#A6
-hysteria2://Masir_Sefid@18.157.222.169:44044?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#A7
-hysteria2://Masir_Sefid@18.157.222.169:444?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#A8
-hysteria2://Masir_Sefid@18.157.222.169:44044?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#A9
-hysteria2://Masir_Sefid@18.157.222.169:54040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#A10
-hysteria2://Masir_Sefid@18.157.222.169:44044?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#A11
-hysteria2://Masir_Sefid@18.157.222.169:1040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#A12
-hysteria2://Masir_Sefid@18.157.222.169:4040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#A13
-hysteria2://Masir_Sefid@18.157.222.169:54040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#A14
-hysteria2://Masir_Sefid@18.157.222.169:4040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#A15
-hysteria2://Masir_Sefid@18.157.222.169:1040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#A16
-hysteria2://Masir_Sefid@18.157.222.169:1040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#A17
-hysteria2://Masir_Sefid@18.157.222.169:4040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#A18
-hysteria2://Masir_Sefid@18.157.222.169:44044?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#A19
-hysteria2://Masir_Sefid@18.157.222.169:4040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#A20
-hysteria2://Masir_Sefid@18.157.222.169:1040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#A21
-hysteria2://masir_sefid@18.157.51.145:443?security=tls&obfs=salamander&obfs-password=masir_sefid&insecure=0&mport=443%2C2053%2C2083%2C2087%2C2096%2C8443&sni=content.masir-sefid.shop#A22
-hysteria2://Masir_Sefid@18.157.222.169:443?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#A23
-hysteria2://Masir_Sefid@18.157.222.169:444?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#A24
-hysteria2://Masir_Sefid@18.157.222.169:54040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#A25
-hysteria2://Masir_Sefid@18.157.222.169:44044?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#A26
-hysteria2://Masir_Sefid@18.157.222.169:8880?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#A27
-hysteria2://Masir_Sefid@18.157.222.169:1040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#A28
-hysteria2://Masir_Sefid@18.157.222.169:4040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#A29
+#profile-web-page-url: 
+اینترنت آزاد (کاملا رایگان):
+👻 9 کانفیگ v2ray تست شده با ایرانسل : 
+
+trojan://humanity@104.16.7.70:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#Channel%20id%3A%20%40internet_azad_2026%20%F0%9F%87%A8%F0%9F%87%A6
+
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@betty.ns.cloudflare.com:443?path=%2Frsedgws&security=tls&encryption=none&host=shegeftihaaa.net&fp=chrome&type=ws&sni=shegeftihaaa.net#Channel%20id%3A%20%40internet_azad_2026%20%F0%9F%87%A8%F0%9F%87%A6
+
+trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#Channel%20id%3A%20%40internet_azad_2026%20%F0%9F%87%A8%F0%9F%87%A6
+
+trojan://humanity@104.18.9.83:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#Channel%20id%3A%20%40internet_azad_2026%20%F0%9F%87%A8%F0%9F%87%A6
+
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@173.245.59.162:443?path=%2Fudfyfws&security=tls&encryption=none&host=octopusss5.info&fp=chrome&type=ws&sni=octopusss5.info#Channel%20id%3A%20%40internet_azad_2026%20%F0%9F%87%A8%F0%9F%87%A6
+
+trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#Channel%20id%3A%20%40internet_azad_2026%20%F0%9F%87%A8%F0%9F%87%A6
+
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@betty.ns.cloudflare.com:443?path=%2Frdfgtws&security=tls&encryption=none&host=vangoghhh.info&fp=chrome&type=ws&sni=vangoghhh.info#Channel%20id%3A%20%40internet_azad_2026%20%F0%9F%87%A8%F0%9F%87%A6
+
+vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@betty.ns.cloudflare.com:443?path=%2Fpoiuyws&security=tls&encryption=none&host=amoosamiii.net&fp=chrome&type=ws&sni=amoosamiii.net#Channel%20id%3A%20%40internet_azad_2026%20%F0%9F%87%A8%F0%9F%87%A6
+
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@octopusss5.info:443?path=%2Fudfyfws&security=tls&encryption=none&host=octopusss5.info&fp=chrome&type=ws&sni=octopusss5.info#Channel%20id%3A%20%40internet_azad_2026%20%F0%9F%87%A8%F0%9F%87%A6
+
+@internet_azad_2026
+
+👣 12 کانفیگ تست شده v2ray با ایرانسل :
+
+trojan://SpDMjT%3D8y4jUQLnwzdfsauMMcLv51NBwEB@79.108.162.56:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=79.108.162.56#Channel%20id%3A%20%40internet_azad_2026
+
+trojan://s75Gtmy56sptTA39hmBH965YYx4ZgfQR_I@103.125.216.169:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=103.125.216.169#Channel%20id%3A%20%40internet_azad_2026
+
+vless://5b9503aa-119b-4288-aa4f-0bbee2b4d5af@188.114.97.6:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=t02.tzteam.online&fp=firefox&type=ws&sni=t02.tzteam.online#Channel%20id%3A%20%40internet_azad_2026
+
+vless://3666e25b-a1c2-48ec-b060-075392b1aa6e@104.18.12.149:443?mode=auto&path=%2FMeh%3Fdi%3D443&security=tls&alpn=h2&encryption=none&host=GERMAN.sarzamiiinahang.ir&fp=chrome&type=xhttp&sni=GERMAN.sarzamiiinahang.ir#Channel%20id%3A%20%40internet_azad_2026
+
+vless://5b9503aa-119b-4288-aa4f-0bbee2b4d5af@188.114.97.6:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=t05.tzteam.online&fp=firefox&type=ws&sni=t05.tzteam.online#Channel%20id%3A%20%40internet_azad_2026
+
+vless://5b9503aa-119b-4288-aa4f-0bbee2b4d5af@188.114.97.6:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=t04.tzteam.online&fp=firefox&type=ws&sni=t04.tzteam.online#Channel%20id%3A%20%40internet_azad_2026
+
+vless://5b9503aa-119b-4288-aa4f-0bbee2b4d5af@188.114.97.6:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=t06.tzteam.online&fp=firefox&type=ws&sni=t06.tzteam.online#Channel%20id%3A%20%40internet_azad_2026
+
+vless://5b9503aa-119b-4288-aa4f-0bbee2b4d5af@188.114.97.6:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=t01.tzteam.online&fp=firefox&type=ws&sni=t01.tzteam.online#Channel%20id%3A%20%40internet_azad_2026
+
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@betty.ns.cloudflare.com:443?path=%2Frdfgtws&security=tls&encryption=none&host=vangoghhh.info&type=ws&sni=vangoghhh.info#Channel%20id%3A%20%40internet_azad_2026
+
+vless://5b9503aa-119b-4288-aa4f-0bbee2b4d5af@188.114.97.6:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=t03.tzteam.online&fp=firefox&type=ws&sni=t03.tzteam.online#Channel%20id%3A%20%40internet_azad_2026
+
+vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@po.fastbrokencompony.com:2053?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=po.fastbrokencompony.com&fp=chrome&type=ws&sni=po.fastbrokencompony.com#Channel%20id%3A%20%40internet_azad_2026
+
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@elliot.ns.cloudflare.com:443?path=%2Fudfyfws&security=tls&encryption=none&host=octopusss5.info&type=ws&sni=octopusss5.info#Channel%20id%3A%20%40internet_azad_2026
+@internet_azad_2026
+
+🎆 لینک ساب کانال مخصوص v2ray :
+(دویست کانفیگ تست شده مخصوص همه اپراتورها)
+
+https://gist.githubusercontent.com/masomeestid-png/066e27a4e9971e5869376e9afeb2b6bf/raw/25fe909479d96af565bd8869c1566a90fc7e70fc/@internet_azad_2026
+آموزش وصل شدن :
+بعد از وارد کردن لینک ساب با فیلتر شکن خاموش سه نقطه رو بزنید و اخرین گزینه از پایین update current group subscription رو بزنید و تمام ، بعد لود شدن کانفیگ ها سه نقطه بالای صفحه رو بزنید و سومین گزینه از پایین real delay current group configuration رو بزنید ، کمی صبر کنید تست پینگ ها کامل گرفته بشه ، دوباره سه نقژه بالای صفحه رو بزنید و دومین گزینه از پایین sorting by test result رو بزنید ، حالا پایینترین پینگ بین کانفیگ ها در بالای لیست قرار گرفته ، به پایینترین پینگ متصل بشید.
+✅ اگر وصل شدید لطفا با ری اکشن اعلام کنید .
+
+✅ ساب رو برای دوستاتون هم بفرستید .
+
+@internet_azad_2026
+
+🦾  لینک ساب ( دوم ) کانال مخصوص v2ray :
+(100 کانفیگ تست شده مخصوص همه اپراتورها)
+
+https://gist.githubusercontent.com/masomeestid-png/39f01d39b811d17af7bbcf7198c0b8ca/raw/8b49beba84854034091817cc8a81b6298a7b1743/@internet_azad_2026
+آموزش وصل شدن :
+بعد از وارد کردن لینک ساب با فیلتر شکن خاموش سه نقطه رو بزنید و اخرین گزینه از پایین update current group subscription رو بزنید و تمام ، بعد لود شدن کانفیگ ها سه نقطه بالای صفحه رو بزنید و سومین گزینه از پایین real delay current group configuration رو بزنید ، کمی صبر کنید تست پینگ ها کامل گرفته بشه ، دوباره سه نقژه بالای صفحه رو بزنید و دومین گزینه از پایین sorting by test result رو بزنید ، حالا پایینترین پینگ بین کانفیگ ها در بالای لیست قرار گرفته ، به پایینترین پینگ متصل بشید.
+✅ اگر وصل شدید لطفا با ری اکشن اعلام کنید .
+
+✅ ساب رو برای دوستاتون هم بفرستید .
+
+@internet_azad_2026
+
+🫡  لینک ساب ( سوم ) کانال مخصوص v2ray :
+(99 کانفیگ تست شده مخصوص همه اپراتورها)
+
+https://gist.githubusercontent.com/masomeestid-png/7e78dcfc339587471ec175d17460b324/raw/51e99b36d6dcfd8f1482d4e0c18f0fb657df8e98/@internet_azad_2026%2520%25DA%25A9%25D8%25A7%25D9%2586%25D8%25A7%25D9%2584%2520%25D9%2585%25D8%25A7
+
+آموزش وصل شدن :
+بعد از وارد کردن لینک ساب با فیلتر شکن خاموش سه نقطه رو بزنید و اخرین گزینه از پایین update current group subscription رو بزنید و تمام ، بعد لود شدن کانفیگ ها سه نقطه بالای صفحه رو بزنید و سومین گزینه از پایین real delay current group configuration رو بزنید ، کمی صبر کنید تست پینگ ها کامل گرفته بشه ، دوباره سه نقژه بالای صفحه رو بزنید و دومین گزینه از پایین sorting by test result رو بزنید ، حالا پایینترین پینگ بین کانفیگ ها در بالای لیست قرار گرفته ، به پایینترین پینگ متصل بشید.
+📍 اگر وصل شدید لطفا با ری اکشن اعلام کنید .
+
+📍 ساب رو برای دوستاتون هم بفرستید .
+
+@internet_azad_2026
+
+⚡️ 4 کانفیگ v2ray مخصوص همه اپراتورها :
+
+trojan://MiTiVPN@104.21.18.41:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&host=blog.95r.ir&fp=chrome&type=ws&sni=blog.95r.ir#%40internet_azad_2026
+
+trojan://MiTiVPN@188.114.97.6:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&host=my.95r.ir&fp=chrome&type=ws&sni=my.95r.ir#%40internet_azad_2026
+
+trojan://MiTiVPN@151.101.110.219:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&host=mitivpn-6.global.ssl.fastly.net&fp=chrome&type=ws&sni=global.fastly.com#%40internet_azad_2026
+
+trojan://MiTiVPN@151.101.110.219:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&host=mitivpn-77.global.ssl.fastly.net&fp=chrome&type=ws&sni=default.ssl.fastly.net#%40internet_azad_2026
+@internet_azad_2026
